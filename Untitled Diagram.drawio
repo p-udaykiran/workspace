@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="KqlZqYxm5YRR8kn8o9Wg">
-    <mxGraphModel>
+    <mxGraphModel dx="1395" dy="2472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#080808" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pCFtbtYmM_cMzGn-zgSa-10" value="ARCHITECTURE OF CLOUD BASED E-LEARNING PLATFORM" style="text;strokeColor=none;align=right;fillColor=default;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=10;gradientColor=none;fontSize=30;fontStyle=1;labelBackgroundColor=#878787;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-790" width="890" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFtbtYmM_cMzGn-zgSa-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-570" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFtbtYmM_cMzGn-zgSa-12" value="ASDEED" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-490" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFtbtYmM_cMzGn-zgSa-16" value="DEVLOPER" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#F2F2F2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="-450" width="95" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
